@@ -17,7 +17,6 @@ My Artifitial Intelligence Stack:
 ![image](https://user-images.githubusercontent.com/60284236/129443684-0e29e682-6698-4455-b558-39910ba96d1d.png)
 
 Coding Stack:
-
 ![image](https://user-images.githubusercontent.com/60284236/129443728-803bf892-689d-4f1a-a793-deaf330adc60.png)
 ![image](https://user-images.githubusercontent.com/60284236/129443733-078725e1-63c9-49a1-bbda-248bb8493712.png)
 
