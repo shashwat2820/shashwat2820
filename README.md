@@ -1,7 +1,7 @@
 Hi 👋 My name is Shashwat Pandey
 ================================
 ![github banner](https://user-images.githubusercontent.com/60284236/129443431-f970e9ca-bf65-4800-bce6-ec3b761f451c.png)
-Hello there ! seems like you finally found me !! 😄 So now let me take this opportunity to introduce myself . I am an ambitious man with an innovative mind . I love to build things , especially when they make someone smile . I have a pleasing personality coupled with a sense of responsibility . I enjoy coding and building things from scratch . Modern technologies like Artificial Intelligence , Blockchain and Cyber Security have always fascinated me . I love building and training new models and fine tuning them . So lets join hands and build a better tomorrow .
+Hello there ! seems like you finally found me !! 😄 So now let me take this opportunity to introduce myself . I am an ambitious man with an innovative mind . I love to build things , especially when they make someone smile . I have a pleasing personality coupled with a sense of responsibility . I enjoy coding and building things from scratch . Modern technologies like Artificial Intelligence , Blockchain and Cyber Security have always fascinated me . I love building and training new models and fine tuning them .So lets join hands and build a better tomorrow.
 
 * 🌍  I'm based in India
 
