@@ -1,6 +1,6 @@
 Hi 👋 My name is Shashwat Pandey
 ================================
-
+![github banner](https://user-images.githubusercontent.com/60284236/129443431-f970e9ca-bf65-4800-bce6-ec3b761f451c.png)
 Hello there ! seems like you finally found me !! 😄 So now let me take this opportunity to introduce myself . I am an ambitious man with an innovative mind . I love to build things , especially when they make someone smile . I have a pleasing personality coupled with a sense of responsibility . I enjoy coding and building things from scratch . Modern technologies like Artificial Intelligence , Blockchain and Cyber Security have always fascinated me . I love building and training new models and fine tuning them . So lets join hands and build a better tomorrow .
 
 * 🌍  I'm based in India
@@ -14,6 +14,16 @@ Hello there ! seems like you finally found me !! 😄 So now let me take this op
 </p>
 
 
+My Artifitial Intelligence Stack:
+
+![image](https://user-images.githubusercontent.com/60284236/129443575-56a7ff64-59a7-47e6-bee0-b68ccd54d9d2.png)
+![image](https://user-images.githubusercontent.com/60284236/129443578-b9155100-e597-4457-bda7-e5a9b9220d92.png)
+![image](https://user-images.githubusercontent.com/60284236/129443612-fb037d7d-33b2-41f4-9d5b-9f411e0541e4.png)
+
+![image](https://user-images.githubusercontent.com/60284236/129443662-012566d2-89d9-4a75-a580-b571307d71c4.png)
+![image](https://user-images.githubusercontent.com/60284236/129443670-9e566b94-6784-43d5-840b-a31256d7263f.png)
+![image](https://user-images.githubusercontent.com/60284236/129443684-0e29e682-6698-4455-b558-39910ba96d1d.png)
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/shashwat2820" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shashwat-pandey-555b9318b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@shashwat.pandeybcy2019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Shashwa08426805" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -26,14 +36,9 @@ Hello there ! seems like you finally found me !! 😄 So now let me take this op
 
 <a href="http://www.github.com/shashwat2820"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat2820&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/shashwat2820"><img src="https://activity-graph.herokuapp.com/graph?username=shashwat2820&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/shashwat2820/deep-learning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashwat2820&repo=deep-learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
 
 
 
